@@ -1,0 +1,12 @@
+{
+  "name": "odds_conf2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Yeesibmaysa/e2e_playwright_odds_conf24.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.9.3"
+  },
+  "scripts": {}
+}
